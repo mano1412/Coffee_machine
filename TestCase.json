@@ -1,0 +1,15 @@
+[
+    ["hot_tea","hot_tea","hot_tea","hot_tea"],
+
+    ["hot_coffee","hot_coffee","hot_coffee","hot_coffee"],
+
+    ["black_tea","black_tea","black_tea","black_tea"],
+
+    ["green_tea","green_tea","green_tea","green_tea"],
+
+    ["hot_tea","hot_coffee","black_tea","green_tea"],
+
+    ["hot_tea","hot_coffee","wishky_tea","ginger_tea"],
+    
+    ["hot_milk","irani_tea","rum_coffee","wishky_tea"]
+]

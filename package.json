@@ -1,0 +1,18 @@
+{
+  "name": "coffee-machine",
+  "version": "1.0.0",
+  "description": "coffee machine to serve N beverages to N people at a time",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ChaiPoint.js"
+  },
+  "author": "manoranjan otta",
+  "license": "ISC",
+  "dependencies": {
+    "loglevel": "^1.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}
